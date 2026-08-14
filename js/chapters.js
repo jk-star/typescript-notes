@@ -1,8 +1,8 @@
 const chapters = [
     {
         id: 1,
-        title: "Introduction",
-        file: "chapter-1_introduction.md"
+        title: "Basic",
+        file: "chapter-1_basic.md"
     }
 
 ];
