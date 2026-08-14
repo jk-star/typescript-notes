@@ -1,4 +1,4 @@
-# TypeScript Basics
+# Chapter 1 TypeScript Basics
 
 ## 1. What is TypeScript?
 
